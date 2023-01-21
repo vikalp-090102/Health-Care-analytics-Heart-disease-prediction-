@@ -1,0 +1,2 @@
+# Health-Care-analytics-Heart-disease-prediction-
+In this project we have implemented machine learning algorithms from scratch to predict whether a person has a heart disease or not. We have used three machine learning algorithms namely KNN, Logistic Regression and Decision Tree(RFC). Logistic Regression was the best which gave an accuracy of 85%. A comparative analysis was done between all algorithms. A fornt-end framework was made using HTML and CSS and all the three machine learning models were deployed on the front-end using flask
